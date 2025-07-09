@@ -29,6 +29,5 @@ Strength_Code.ipynb
 ### 3. Change your path Dataset & Run all cell
 ```
 data = pd.read_csv('Path to Strength_ِDataset.csv')
-
 ```
 
